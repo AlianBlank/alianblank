@@ -20,18 +20,7 @@ Here are some ideas to get you started:
 ### Stats
 
 | Topic Stats | Language Stats | 
-| ------ | ------ | 
+| ------ | ------: | 
 | ![Topic Stats](https://github-readme-stats.vercel.app/api?username=alianblank&show_icons=true&locale=cn&hide_border=true&theme=tokyonight) | ![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=alianblank&layout=compact&locale=cn&hide_border=true&theme=tokyonight) | 
-<div>
-    <img align="left" width="350px">
-        
-    </img>
-    <img align="right" width="350px">
-        
-    </img>
-</div>
-![Topic Stats](https://github-readme-stats.vercel.app/api?username=alianblank&show_icons=true&locale=cn&hide_border=true&theme=tokyonight)
-
-![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=alianblank&layout=compact&locale=cn&hide_border=true&theme=tokyonight)
 
 ![Commit Stats](https://github-readme-activity-graph.vercel.app/graph?username=alianblank&theme=react-dark&point=66ccff)
