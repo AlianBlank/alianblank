@@ -19,7 +19,16 @@ Here are some ideas to get you started:
 
 ### Stats
 
-| Topic Stats | Language Stats | 
-| ------ | ------ | 
-| ![Topic Stats](https://github-readme-stats.vercel.app/api?username=alianblank&show_icons=true&locale=cn&hide_border=true&theme=tokyonight&line_height=40) | ![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=alianblank&layout=normal&locale=cn&hide_border=true&theme=tokyonight) | 
-| ![Commit Stats](https://github-readme-activity-graph.vercel.app/graph?username=alianblank&theme=react-dark&point=66ccff) | 
+<table>
+    <tr>
+      <th>Topic Stats</th>
+      <th>Language Stats</th>
+    </tr>
+
+    <tr>
+        <td>![Topic Stats](https://github-readme-stats.vercel.app/api?username=alianblank&show_icons=true&locale=cn&hide_border=true&theme=tokyonight&line_height=40)</td><td> ![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=alianblank&layout=normal&locale=cn&hide_border=true&theme=tokyonight)</td>
+    </tr>
+    <tr>
+        <td colspan="2">![Commit Stats](https://github-readme-activity-graph.vercel.app/graph?username=alianblank&theme=react-dark&point=66ccff)</td>
+    </tr>
+</table>
