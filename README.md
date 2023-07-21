@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ### Stats
 
-<table>
+<table border="0">
     <tr>
       <th>Topic Stats</th>
       <th>Language Stats</th>
