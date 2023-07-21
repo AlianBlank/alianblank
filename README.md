@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 
 ![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=alianblank&layout=compact&locale=cn&hide_border=true&theme=tokyonight)
 
-![Commit Stats](https://github-readme-activity-graph.vercel.app/graph?username=alianblank&theme=react-dark&bg_color=white&point=66ccff)
+![Commit Stats](https://github-readme-activity-graph.vercel.app/graph?username=alianblank&theme=react-dark&point=66ccff)
